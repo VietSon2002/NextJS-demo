@@ -24,7 +24,6 @@ export default async function Home() {
         <div
           className="absolute inset-0 origin-center"
           style={{
-            transform: 'rotate(90deg)',
             backgroundImage:
               "url('https://i.pinimg.com/736x/56/b2/66/56b2660f633818981f35937f32f62900.jpg')",
             backgroundRepeat: 'no-repeat',
